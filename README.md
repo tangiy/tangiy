@@ -1,2 +1,4 @@
-<p align="center">![IMG_5056](https://github.com/user-attachments/assets/501a137a-09bc-4c23-a2a2-644d184c0274)</p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&letterSpacing=-1px&pause=1000&color=899074C3&width=435&lines=%22I...want+to+see+things+no+one+can%22)](https://git.io/typing-svg)
+<p align="center">
+  <img width="138" height="200" src="https://github.com/user-attachments/assets/501a137a-09bc-4c23-a2a2-644d184c0274">
+</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&letterSpacing=-1px&pause=300&color=7D8161D0&center=true&width=435&lines=%E2%80%9CI%E2%80%A6want+to+see+things+no+one+can+see%E2%80%9D" alt="Typing SVG" /></a>
